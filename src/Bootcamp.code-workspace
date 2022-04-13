@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../leftBrain/developer/BBBootcamp-Wd"
+		},
+		{
+			"path": "../../Portfolio"
+		},
+		{
+			"path": "../../leftBrain/developer/BBBootcamp-Py"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../contact-card-mini-project"
+		},
+		{
+			"path": "../../emojipedia-mini-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BBBootcamp-Wd"
+	}
+}
